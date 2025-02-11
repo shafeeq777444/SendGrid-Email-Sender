@@ -17,7 +17,7 @@ This project demonstrates how to send emails using SendGrid in a Node.js applica
 ## Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/sendgrid-email-sender.git
+git clone https://github.com/shafeeq777444/SendGrid-Email-Sender.git
 cd sendgrid-email-sender
 ```
 
